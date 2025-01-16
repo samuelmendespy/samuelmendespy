@@ -1,18 +1,19 @@
 # Welcome!
 
-I am a passionate Developer with extensive experience in building innovative, scalable, and secure software solutions. I thrive in collaborative environments and am committed to delivering high-performance applications. With proficiency across a wide array of technologies, including **PHP**, **Java**, **Node.js**, **Angular**, **React**, **Vue.js**, **Laravel**, **Docker**, and **Bootstrap**, I have worked on diverse and challenging projects, with a strong focus on frontend and backend development.
+I have an extensive experience with full stack developement in creating innovative, scalable, and secure software solutions. I thrive in collaborative environments and am committed to delivering high-performance applications. With proficiency across a wide array of technologies, including **PHP**, **Java**, **Node.js**, **Angular**, **React**, **Vue.js**, **Laravel** and **Docker**. I have worked on diverse and challenging projects, with a strong focus on frontend and backend development.
 
 ## My Skills:
 
-### **Frontend Development: Expertise in Vue.js, React, and Angular**
-* **Vue.js**: Advanced experience in developing reactive, performant, and user-friendly interfaces using Vue.js.
-* **React**: Strong skills in creating reusable components, optimizing performance, and integrating with RESTful APIs in React applications.
+### **Frontend Development**
 * **Angular**: Deep understanding of building large-scale applications using Angular, with a focus on modular design and maintainability.
+* **React**: Strong skills in creating reusable components, optimizing performance, and integrating with RESTful APIs in React applications.
+* **Vue.js**: Experience in developing reactive and user-friendly interfaces using Vue.js.
 
-### **Backend Development: Expertise in PHP, Node.js, Java, and Laravel**
-* **PHP & Laravel**: Experience in building robust web applications and APIs using PHP, Laravel, and related frameworks such as Symfony.
-* **Node.js**: Expertise in building scalable backend services with Node.js.
-* **Java**: Strong foundation in Java development, including enterprise-level application design and performance optimization.
+### **Backend Development**
+* **Node.js with Express**: Expertise in building scalable backend services with Node.js.
+* **Java & Spring Boot**: Proficient in Java development, including enterprise-level application design and performance optimization.
+* **PHP & Laravel**:  on projects using PHP and Laravel in building robust web applications and APIs.
+* **Web Servers** : Proficient in configuring and managing Apache and Nginx to ensure functionality and troubleshoot issues, with sufficient knowledge to maintain and optimize existing systems rather than develop new ones.
 
 ### **Web Technologies: HTML, CSS, JavaScript**
 * Experience implementing responsive, interactive web interfaces using HTML5, CSS3, and modern JavaScript.
@@ -45,10 +46,10 @@ I am a passionate Developer with extensive experience in building innovative, sc
 
 ## What I'm Looking For:
 
-I am excited about the opportunity to contribute to a company like **Aurum**, which values **autonomy**, **responsibility**, **collaboration**, and **continuous learning**. I am eager to work in an environment that fosters **transparency** and **innovation**, where I can use my skills to build scalable web applications, collaborate with multidisciplinary teams, and contribute to the growth of the company.
+I am seeking an opportunity to contribute to a company that values responsibility, collaboration, and continuous learning while maintaining an organized environment. I am eager to apply my expertise in building scalable web applications, collaborating with teams to support the company's growth and success.
 
 ## Let's Connect!
 
-If you are looking for a developer who is committed to delivering high-quality, secure, and scalable solutions, I'd love to connect!
+If you are looking for a developer who is committed to delivering solutions, I'd love to connect!
 
 *   [LinkedIn](https://bit.ly/linktosmpy)
