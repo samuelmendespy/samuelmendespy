@@ -6,17 +6,16 @@ I am a **Java Developer** with experience in delivering solutions with software 
 - **Java (Spring Boot & Quarkus)**: Expertise in backend development, focusing on REST APIs, security, and performance optimization.
 - **Angular**: Building scalable, responsive, and maintainable front-end applications.
 - **Node.js & React**: Experience in both backend and frontend development, ensuring a versatile tech stack.
-  Testing: **JUnit**,**Karma**, **Jasmine**, **Jest**, and **Cypress**.
-- Expertise in **Docker**, **Kubernetes** and **AWS** services such as **EC2**, **S3**, **API Gateway**, **SES**, **Lambda**, and more.
+- Working in projects with **SQL** and **NoSQL** databases.
+- Expertise in **Docker**, **Kubernetes** and **AWS** services such as **ECS**, **EC2**, **S3**, **API Gateway**, **SES**, **Lambda**.
+- Testing: **JUnit**, **Jest**, **Karma**, **Jasmine**, and **Cypress**.
 - Documenting APIs with **OpenAPI/Swagger**.
-- Working with **SQL** and **NoSQL** databases.
-- Applying **SOLID principles**, **Clean Code**, and **Design Patterns**.
 - Setting up **CI/CD pipelines** for automated testing, deployment, and integration.
 
 ### **Additional Skills**
 - Advanced English
-- Experise in Java mobile development for **Android**, **Flutter** and **React Native**.
-- Expertise in **Google Play** deployment and optimization.
+- Applying **SOLID principles**, **Clean Code**, and **Design Patterns**.
+- Strong experience in mobile development and **Google Play** deployment and optimization.
 
 ## Let's Connect!
 
